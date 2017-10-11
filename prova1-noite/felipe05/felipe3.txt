@@ -1,0 +1,9 @@
+felipe1.txt
+felipe2.txt
+felipe3.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-felipe.txt
